@@ -1,4 +1,3 @@
-# CSStudy
 # C# 프로그래밍 
 ## Ch01. Hello World
 ## Ch02. 변수와 자료형 그리고 연산자 

@@ -1,0 +1,17 @@
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.csproj.AssemblyReference.cache
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.Form1.resources
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.csproj.GenerateResource.cache
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.AssemblyInfoInputs.cache
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.AssemblyInfo.cs
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.csproj.CoreCompileInputs.cache
+C:\Users\502\Desktop\Study\Timer01\bin\Debug\net6.0-windows\Timer01.exe
+C:\Users\502\Desktop\Study\Timer01\bin\Debug\net6.0-windows\Timer01.deps.json
+C:\Users\502\Desktop\Study\Timer01\bin\Debug\net6.0-windows\Timer01.runtimeconfig.json
+C:\Users\502\Desktop\Study\Timer01\bin\Debug\net6.0-windows\Timer01.dll
+C:\Users\502\Desktop\Study\Timer01\bin\Debug\net6.0-windows\Timer01.pdb
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.dll
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\refint\Timer01.dll
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.pdb
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\Timer01.genruntimeconfig.cache
+C:\Users\502\Desktop\Study\Timer01\obj\Debug\net6.0-windows\ref\Timer01.dll
